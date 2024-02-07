@@ -1,0 +1,21 @@
+{
+  "blogs": [
+    {
+      "title": "Goal setting",
+      "body": " Goal setting is the process of liking active steps to achieve your desired dreams or outcome just as we read in our passage. Before God made man. God spoke it out as a desire which was fulfilled in the same passage. So as we have safely come into this new year, it is very important we plan for the year by setting goals in order to achieve great things both in our lives and ministry.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "My second blog",
+      "body": "If you want to start measuring performance in your app, pass a function",
+      "author": "mario",
+      "id": "2"
+    },
+    {
+      "id": "f6d8",
+      "title": "Artificial Intelligience",
+      "body": "Artificial intelligence is all about using machines to imitate, augment and sometimes partially replace  human intelligence. And this can be achieved through a process called machine learning. Machine Learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
+    }
+  ]
+}
